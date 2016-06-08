@@ -1,0 +1,11 @@
+D:\Vasily\Cujae\proyectos $\Carritos 3D\Carrros\obj\Debug\ResolveAssemblyReference.cache
+D:\Vasily\Cujae\proyectos $\Carritos 3D\Carrros\obj\Debug\Carrros.Properties.Resources.resources
+D:\Vasily\Cujae\proyectos $\Carritos 3D\Carrros\obj\Debug\Carrros.csproj.GenerateResource.Cache
+D:\Vasily\Cujae\proyectos $\Carritos 3D\Carrros\bin\Debug\Carrros.exe
+D:\Vasily\Cujae\proyectos $\Carritos 3D\Carrros\bin\Debug\Carrros.pdb
+D:\Vasily\Cujae\proyectos $\Carritos 3D\Carrros\obj\Debug\Carrros.exe
+D:\Vasily\Cujae\proyectos $\Carritos 3D\Carrros\obj\Debug\Carrros.pdb
+D:\Vasily\Cujae\proyectos $\Carritos 3D\Carrros\obj\Debug\Carrros.MainForm.resources
+D:\Vasily\Cujae\proyectos $\Carritos 3D\Carrros\bin\Debug\ShadowEngine.dll
+D:\Vasily\Cujae\proyectos $\Carritos 3D\Carrros\bin\Debug\Tao.OpenGl.dll
+D:\Vasily\Cujae\proyectos $\Carritos 3D\Carrros\bin\Debug\ShadowEngine.pdb

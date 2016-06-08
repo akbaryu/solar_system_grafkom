@@ -1,0 +1,24 @@
+D:\Vasily\Cujae\proyectos sede\Moticos 3D\Motos\obj\Debug\Motos.exe
+D:\Vasily\Cujae\proyectos sede\Moticos 3D\Motos\obj\Debug\Motos.pdb
+D:\Vasily\Cujae\proyectos sede\Moticos 3D\Motos\bin\Debug\Motos.exe
+D:\Vasily\Cujae\proyectos sede\Moticos 3D\Motos\bin\Debug\Motos.pdb
+D:\Vasily\Cujae\proyectos sede\Moticos 3D\Motos\bin\Debug\ShadowEngine.dll
+D:\Vasily\Cujae\proyectos sede\Moticos 3D\Motos\bin\Debug\Tao.OpenGl.dll
+D:\Vasily\Cujae\proyectos sede\Moticos 3D\Motos\bin\Debug\ShadowEngine.pdb
+D:\Vasily\Cujae\proyectos sede\Moticos 3D\Motos\obj\Debug\ResolveAssemblyReference.cache
+D:\Vasily\Cujae\proyectos sede\Moticos 3D\Motos\obj\Debug\Motos.Properties.Resources.resources
+D:\Vasily\Cujae\proyectos sede\Moticos 3D\Motos\obj\Debug\Motos.csproj.GenerateResource.Cache
+D:\Vasily\Cujae\proyectos sede\Moticos 3D\Motos\obj\Debug\Motos.MainForm.resources
+D:\Vasily\Cujae\proyectos sede grafica\Moticos 3D\Motos\obj\Debug\Motos.exe
+D:\Vasily\Cujae\proyectos sede grafica\Moticos 3D\Motos\obj\Debug\Motos.pdb
+D:\Vasily\Cujae\proyectos sede grafica\Moticos 3D\Motos\bin\Debug\Motos.exe
+D:\Vasily\Cujae\proyectos sede grafica\Moticos 3D\Motos\bin\Debug\Motos.pdb
+D:\Vasily\Cujae\proyectos sede grafica\Moticos 3D\Motos\bin\Debug\ShadowEngine.dll
+D:\Vasily\Cujae\proyectos sede grafica\Moticos 3D\Motos\bin\Debug\Tao.OpenGl.dll
+D:\Vasily\Cujae\proyectos sede grafica\Moticos 3D\Motos\bin\Debug\ShadowEngine.pdb
+D:\Vasily\Cujae\proyectos sede grafica\Moticos 3D\Motos\obj\Debug\ResolveAssemblyReference.cache
+D:\Vasily\Cujae\proyectos sede grafica\Moticos 3D\Motos\obj\Debug\Motos.MainForm.resources
+D:\Vasily\Cujae\proyectos sede grafica\Moticos 3D\Motos\obj\Debug\Motos.Properties.Resources.resources
+D:\Vasily\Cujae\proyectos sede grafica\Moticos 3D\Motos\obj\Debug\Motos.csproj.GenerateResource.Cache
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\SistemaSolar\Motos\obj\Debug\Motos.exe
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\SistemaSolar\Motos\obj\Debug\Motos.pdb
