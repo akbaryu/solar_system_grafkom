@@ -10,3 +10,7 @@ Aplikasi ini dibuat oleh Tim Projek tugas Matkul PAPB : [Yudha Akbar] writes on 
 
    [yudha akbar]: <http://github.com/akbaryu>
    [wildan mukafi]: <http://github.com/wildankafie>
+
+<p align="center">
+  <img src="https://github.com/akbaryu/solar_system_grafkom/raw/master/bintang.gif">
+</p>
